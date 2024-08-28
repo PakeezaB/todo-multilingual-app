@@ -1,0 +1,204 @@
+{
+    "@@locale": "ur",
+    "appTitle": "کام شامل کریں",
+    "@appTitle": {
+      "description": "The title of the app"
+    },
+    "taskNameHint": "کام کا نام",
+    "@taskNameHint": {
+      "description": "Hint text for the task name input field"
+    },
+    "saveButtonText": "محفوظ کریں",
+    "@saveButtonText": {
+      "description": "Text for the save button"
+    },
+    "taskSavedMessage": "کام محفوظ ہوگیا",
+    "@taskSavedMessage": {
+      "description": "Message shown when a task is saved successfully"
+    },
+    "taskSaveErrorMessage": "غلطی: {error}",
+    "@taskSaveErrorMessage": {
+      "description": "Error message shown when a task fails to save",
+      "placeholders": {
+        "error": {
+          "type": "String",
+          "description": "The error message"
+        }
+      }
+    },
+    "dashboardTitle": "ڈیش بورڈ",
+    "@dashboardTitle": {
+      "description": "Title of the dashboard screen"
+    },
+    "profileScreenTitle": "پروفائل",
+    "@profileScreenTitle": {
+      "description": "Title of the profile screen"
+    },
+    "confirmationDialogTitle": "تصدیق",
+    "@confirmationDialogTitle": {
+      "description": "Title for confirmation dialogs"
+    },
+    "logoutConfirmation": "کیا آپ واقعی لاگ آؤٹ کرنا چاہتے ہیں؟",
+    "@logoutConfirmation": {
+      "description": "Confirmation message for logging out"
+    },
+    "deleteTaskConfirmation": "کیا آپ واقعی اس کام کو حذف کرنا چاہتے ہیں؟",
+    "@deleteTaskConfirmation": {
+      "description": "Confirmation message for deleting a task"
+    },
+    "yesButtonText": "ہاں",
+    "@yesButtonText": {
+      "description": "Text for the yes button"
+    },
+    "noButtonText": "نہیں",
+    "@noButtonText": {
+      "description": "Text for the no button"
+    },
+    "noTasksFoundMessage": "کوئی کام نہیں ملا",
+    "@noTasksFoundMessage": {
+      "description": "Message shown when no tasks are found"
+    },
+    "taskDeletedMessage": "کام حذف ہوگیا",
+    "@taskDeletedMessage": {
+      "description": "Message shown when a task is deleted"
+    },
+    "addTaskButtonTooltip": "کام شامل کریں",
+    "@addTaskButtonTooltip": {
+      "description": "Tooltip for the add task button"
+    },
+    "emailVerificationTitle": "ای میل تصدیق",
+    "@emailVerificationTitle": {
+      "description": "Title of the email verification screen"
+    },
+    "emailVerificationMessage": "آپ کے اکاؤنٹ پر ایک ای میل بھیجی گئی ہے۔\nبراہ کرم اپنی ای میل ایڈریس چیک کریں۔",
+    "@emailVerificationMessage": {
+      "description": "Message shown after an email verification is sent"
+    },
+    "resendEmailButtonText": "ای میل دوبارہ بھیجیں",
+    "@resendEmailButtonText": {
+      "description": "Text for the resend email button"
+    },
+    "forgotPasswordTitle": "پاس ورڈ بھول گئے",
+    "@forgotPasswordTitle": {
+      "description": "Title of the forgot password screen"
+    },
+    "loginTitle": "لاگ ان کریں",
+    "@loginTitle": {
+      "description": "Title of the login screen"
+    },
+    "emailHint": "ای میل ایڈریس",
+    "@emailHint": {
+      "description": "Hint text for the email input field"
+    },
+    "passwordHint": "پاس ورڈ",
+    "@passwordHint": {
+      "description": "Hint text for the password input field"
+    },
+    "loginButtonText": "لاگ ان کریں",
+    "@loginButtonText": {
+      "description": "Text for the login button"
+    },
+    "notRegisteredText": "ابھی تک رجسٹر نہیں ہوئے؟ سائن اپ کریں",
+    "@notRegisteredText": {
+      "description": "Text encouraging the user to register if they haven't yet"
+    },
+    "forgotPasswordText": "پاس ورڈ بھول گئے",
+    "@forgotPasswordText": {
+      "description": "Text for the forgot password button"
+    },
+    "profileTitle": "پروفائل",
+    "@profileTitle": {
+      "description": "Title of the profile section"
+    },
+    "loadingMessage": "لوڈ ہو رہا ہے...",
+    "@loadingMessage": {
+      "description": "Message shown while loading data"
+    },
+    "nameLabel": "نام",
+    "@nameLabel": {
+      "description": "Label for the name field"
+    },
+    "genderLabel": "صنف",
+    "@genderLabel": {
+      "description": "Label for the gender field"
+    },
+    "emailLabel": "ای میل",
+    "@emailLabel": {
+      "description": "Label for the email field"
+    },
+    "signUpTitle": "سائن اپ کریں",
+    "@signUpTitle": {
+      "description": "Title of the sign-up screen"
+    },
+    "nameHint": "نام",
+    "@nameHint": {
+      "description": "Hint text for the name input field"
+    },
+    "mobileHint": "موبائل",
+    "@mobileHint": {
+      "description": "Hint text for the mobile number input field"
+    },
+    "confirmPasswordHint": "پاس ورڈ کی تصدیق کریں",
+    "@confirmPasswordHint": {
+      "description": "Hint text for the confirm password input field"
+    },
+    "registerButtonText": "سائن اپ کریں",
+    "@registerButtonText": {
+      "description": "Text for the register button"
+    },
+    "alreadyRegisteredText": "پہلے سے رجسٹرڈ؟ لاگ ان کریں",
+    "@alreadyRegisteredText": {
+      "description": "Text encouraging the user to log in if they are already registered"
+    },
+    "passwordsMustMatchMessage": "پاس ورڈ ملنا چاہئے",
+    "@passwordsMustMatchMessage": {
+      "description": "Message shown when the passwords do not match"
+    },
+    "provideNameMessage": "براہ کرم نام فراہم کریں",
+    "@provideNameMessage": {
+      "description": "Message shown when the user does not provide a name"
+    },
+    "accountCreatedMessage": "اکاؤنٹ بنایا گیا",
+    "@accountCreatedMessage": {
+      "description": "Message shown when an account is successfully created"
+    },
+    "updateScreenTitle": "اپ ڈیٹ اسکرین",
+    "@updateScreenTitle": {
+      "description": "Title of the update screen"
+    },
+    "updateButtonText": "اپ ڈیٹ کریں",
+    "@updateButtonText": {
+      "description": "Text for the update button"
+    },
+    "taskUpdatedMessage": "کام اپ ڈیٹ ہوگیا",
+    "@taskUpdatedMessage": {
+      "description": "Message shown when a task is updated"
+    },
+    "genderMale": "مرد",
+    "@genderMale": {
+      "description": "Label for male gender"
+    },
+    "genderFemale": "عورت",
+    "@genderFemale": {
+      "description": "Label for female gender"
+    },
+    "genderOther": "دیگر",
+    "@genderOther": {
+      "description": "Label for other gender"
+    },
+    "provideGenderMessage": "براہ کرم صنف فراہم کریں",
+    "@provideGenderMessage": {
+      "description": "Message shown when the user does not provide a gender"
+    },
+    "loginError": "غلطی: {error}",
+    "@loginError": {
+      "description": "Error message shown when login fails",
+      "placeholders": {
+        "error": {
+          "type": "String",
+          "description": "The error message"
+        }
+      }
+    }
+  }
+  

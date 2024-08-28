@@ -1,0 +1,205 @@
+{
+    "@@locale": "en",
+    "appTitle": "Add Task",
+    "taskNameHint": "Task Name",
+    "saveButtonText": "Save",
+    "taskSavedMessage": "Task Saved",
+    "taskSaveErrorMessage": "Error: {error}",
+    "dashboardTitle": "Dashboard",
+    "profileScreenTitle": "Profile",
+    "confirmationDialogTitle": "Confirmation",
+    "logoutConfirmation": "Are you sure you want to log out?",
+    "deleteTaskConfirmation": "Are you sure you want to delete this task?",
+    "yesButtonText": "Yes",
+    "noButtonText": "No",
+    "noTasksFoundMessage": "No Tasks Found",
+    "taskDeletedMessage": "Task Deleted",
+    "addTaskButtonTooltip": "Add Task",
+    "emailVerificationTitle": "Email Verification",
+    "emailVerificationMessage": "An email has been sent to your account.\nPlease check your email address.",
+    "resendEmailButtonText": "Resend Email",
+    "forgotPasswordTitle": "Forgot Password",
+    "loginTitle": "Login",
+    "emailHint": "Email Address",
+    "passwordHint": "Password",
+    "loginButtonText": "Login",
+    "notRegisteredText": "Not registered yet? Sign Up",
+    "forgotPasswordText": "Forgot Password",
+    "profileTitle": "Profile",
+    "loadingMessage": "Loading...",
+    "nameLabel": "Name",
+    "genderLabel": "Gender",
+    "emailLabel": "Email",
+    "signUpTitle": "Sign Up",
+    "nameHint": "Name",
+    "mobileHint": "Mobile",
+    "confirmPasswordHint": "Confirm Password",
+    "registerButtonText": "Sign Up",
+    "alreadyRegisteredText": "Already registered? Login",
+    "passwordsMustMatchMessage": "Passwords must match",
+    "provideNameMessage": "Please provide a name",
+    "accountCreatedMessage": "Account Created",
+    "updateScreenTitle": "Update Screen",
+    "updateButtonText": "Update",
+    "taskUpdatedMessage": "Task Updated",
+    "genderMale": "Male",
+    "genderFemale": "Female",
+    "genderOther": "Other",
+    "provideGenderMessage": "Please provide a gender",
+    "loginError": "Error: {error}",
+    "@appTitle": {
+        "description": "Title for the Add Task screen"
+    },
+    "@taskNameHint": {
+        "description": "Hint text for the Task Name field"
+    },
+    "@saveButtonText": {
+        "description": "Text for the Save button"
+    },
+    "@taskSavedMessage": {
+        "description": "Message displayed when a task is successfully saved"
+    },
+    "@taskSaveErrorMessage": {
+        "description": "Error message when there is an issue saving the task",
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Network error",
+                "description": "The error message when saving the task."
+            }
+        }
+    },
+    "@dashboardTitle": {
+        "description": "Title for the Dashboard screen"
+    },
+    "@profileScreenTitle": {
+        "description": "Title for the Profile screen"
+    },
+    "@confirmationDialogTitle": {
+        "description": "Title for the Confirmation dialog"
+    },
+    "@logoutConfirmation": {
+        "description": "Message confirming log out"
+    },
+    "@deleteTaskConfirmation": {
+        "description": "Message confirming task deletion"
+    },
+    "@yesButtonText": {
+        "description": "Text for the Yes button"
+    },
+    "@noButtonText": {
+        "description": "Text for the No button"
+    },
+    "@noTasksFoundMessage": {
+        "description": "Message when no tasks are found"
+    },
+    "@taskDeletedMessage": {
+        "description": "Message when a task is deleted"
+    },
+    "@addTaskButtonTooltip": {
+        "description": "Tooltip text for the Add Task button"
+    },
+    "@emailVerificationTitle": {
+        "description": "Title for the Email Verification screen"
+    },
+    "@emailVerificationMessage": {
+        "description": "Message informing the user that a verification email has been sent"
+    },
+    "@resendEmailButtonText": {
+        "description": "Text for the Resend Email button"
+    },
+    "@forgotPasswordTitle": {
+        "description": "Title for the Forgot Password screen"
+    },
+    "@loginTitle": {
+        "description": "Title for the Login screen"
+    },
+    "@emailHint": {
+        "description": "Hint text for the Email field"
+    },
+    "@passwordHint": {
+        "description": "Hint text for the Password field"
+    },
+    "@loginButtonText": {
+        "description": "Text for the Login button"
+    },
+    "@notRegisteredText": {
+        "description": "Text for the link to the Sign Up screen"
+    },
+    "@forgotPasswordText": {
+        "description": "Text for the link to the Forgot Password screen"
+    },
+    "@loginError": {
+        "description": "Error message when there is an issue logging in",
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "Invalid login credentials",
+                "description": "The error message when logging in."
+            }
+        }
+    },
+    "@profileTitle": {
+        "description": "Title for the Profile screen"
+    },
+    "@loadingMessage": {
+        "description": "Message displayed while loading user data"
+    },
+    "@nameLabel": {
+        "description": "Label for the user's name"
+    },
+    "@genderLabel": {
+        "description": "Label for the user's gender"
+    },
+    "@emailLabel": {
+        "description": "Label for the user's email"
+    },
+    "@signUpTitle": {
+        "description": "Title for the Sign Up screen"
+    },
+    "@nameHint": {
+        "description": "Hint text for the Name field on the Sign Up screen"
+    },
+    "@mobileHint": {
+        "description": "Hint text for the Mobile field on the Sign Up screen"
+    },
+    "@confirmPasswordHint": {
+        "description": "Hint text for confirming the password on the Sign Up screen"
+    },
+    "@registerButtonText": {
+        "description": "Text for the Sign Up button on the Sign Up screen"
+    },
+    "@alreadyRegisteredText": {
+        "description": "Text for the link to the Login screen on the Sign Up screen"
+    },
+    "@passwordsMustMatchMessage": {
+        "description": "Message when passwords do not match"
+    },
+    "@provideNameMessage": {
+        "description": "Message when the user does not provide a name"
+    },
+    "@accountCreatedMessage": {
+        "description": "Message when the account is successfully created"
+    },
+    "@updateScreenTitle": {
+        "description": "Title for the Update screen"
+    },
+    "@updateButtonText": {
+        "description": "Text for the Update button on the Update screen"
+    },
+    "@taskUpdatedMessage": {
+        "description": "Message when a task is successfully updated"
+    },
+    "@genderMale": {
+        "description": "Text for the Male gender option"
+    },
+    "@genderFemale": {
+        "description": "Text for the Female gender option"
+    },
+    "@genderOther": {
+        "description": "Text for the Other gender option"
+    },
+    "@provideGenderMessage": {
+        "description": "Message when the user does not provide a gender"
+    }
+}

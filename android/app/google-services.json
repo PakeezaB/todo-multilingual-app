@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97566881565",
+    "project_id": "todo-multilingual",
+    "storage_bucket": "todo-multilingual.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97566881565:android:0e89b55c6da963e69fd3f4",
+        "android_client_info": {
+          "package_name": "com.example.todo_multilingual_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGUrFL6Zf6_9hGJ2_fza61SCfhrvv0Ruw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97566881565:android:c41234d67f73203c9fd3f4",
+        "android_client_info": {
+          "package_name": "com.example.todolist_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGUrFL6Zf6_9hGJ2_fza61SCfhrvv0Ruw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

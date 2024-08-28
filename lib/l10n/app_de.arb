@@ -1,0 +1,206 @@
+{
+    "@@locale": "de",
+    "appTitle": "Aufgabe Hinzufügen",
+    "taskNameHint": "Aufgabenname",
+    "saveButtonText": "Speichern",
+    "taskSavedMessage": "Aufgabe Gespeichert",
+    "taskSaveErrorMessage": "Fehler: {error}",
+    "dashboardTitle": "Dashboard",
+    "profileScreenTitle": "Profil",
+    "confirmationDialogTitle": "Bestätigung",
+    "logoutConfirmation": "Bist du sicher, dass du dich abmelden möchtest?",
+    "deleteTaskConfirmation": "Bist du sicher, dass du diese Aufgabe löschen möchtest?",
+    "yesButtonText": "Ja",
+    "noButtonText": "Nein",
+    "noTasksFoundMessage": "Keine Aufgaben gefunden",
+    "taskDeletedMessage": "Aufgabe Gelöscht",
+    "addTaskButtonTooltip": "Aufgabe Hinzufügen",
+    "emailVerificationTitle": "E-Mail-Verifizierung",
+    "emailVerificationMessage": "Eine E-Mail wurde an dein Konto gesendet.\nBitte überprüfe deine E-Mail-Adresse.",
+    "resendEmailButtonText": "E-Mail Erneut Senden",
+    "forgotPasswordTitle": "Passwort Vergessen",
+    "loginTitle": "Anmelden",
+    "emailHint": "E-Mail-Adresse",
+    "passwordHint": "Passwort",
+    "loginButtonText": "Anmelden",
+    "notRegisteredText": "Noch nicht registriert? Registrieren",
+    "forgotPasswordText": "Passwort Vergessen",
+    "profileTitle": "Profil",
+    "loadingMessage": "Wird geladen...",
+    "nameLabel": "Name",
+    "genderLabel": "Geschlecht",
+    "emailLabel": "E-Mail",
+    "signUpTitle": "Registrieren",
+    "nameHint": "Name",
+    "mobileHint": "Handy",
+    "confirmPasswordHint": "Passwort Bestätigen",
+    "registerButtonText": "Registrieren",
+    "alreadyRegisteredText": "Bereits registriert? Anmelden",
+    "passwordsMustMatchMessage": "Passwörter müssen übereinstimmen",
+    "provideNameMessage": "Bitte Namen angeben",
+    "accountCreatedMessage": "Konto Erstellen",
+    "updateScreenTitle": "Aktualisierungsbildschirm",
+    "updateButtonText": "Aktualisieren",
+    "taskUpdatedMessage": "Aufgabe Aktualisiert",
+    "genderMale": "Männlich",
+    "genderFemale": "Weiblich",
+    "genderOther": "Anders",
+    "provideGenderMessage": "Bitte Geschlecht angeben",
+    "loginError": "Fehler: {error}",
+    "@appTitle": {
+      "description": "Titel für den Bildschirm Aufgabe hinzufügen"
+    },
+    "@taskNameHint": {
+      "description": "Hinweistext für das Aufgabennamefeld"
+    },
+    "@saveButtonText": {
+      "description": "Text für die Schaltfläche Speichern"
+    },
+    "@taskSavedMessage": {
+      "description": "Nachricht, die angezeigt wird, wenn eine Aufgabe erfolgreich gespeichert wird"
+    },
+    "@taskSaveErrorMessage": {
+      "description": "Fehlermeldung, wenn es ein Problem beim Speichern der Aufgabe gibt",
+      "placeholders": {
+        "error": {
+          "type": "String",
+          "example": "Netzwerkfehler",
+          "description": "Die Fehlermeldung beim Speichern der Aufgabe."
+        }
+      }
+    },
+    "@dashboardTitle": {
+      "description": "Titel für den Dashboard-Bildschirm"
+    },
+    "@profileScreenTitle": {
+      "description": "Titel für den Profil-Bildschirm"
+    },
+    "@confirmationDialogTitle": {
+      "description": "Titel für das Bestätigungsdialogfeld"
+    },
+    "@logoutConfirmation": {
+      "description": "Nachricht zur Bestätigung der Abmeldung"
+    },
+    "@deleteTaskConfirmation": {
+      "description": "Nachricht zur Bestätigung der Aufgabendeletion"
+    },
+    "@yesButtonText": {
+      "description": "Text für die Schaltfläche Ja"
+    },
+    "@noButtonText": {
+      "description": "Text für die Schaltfläche Nein"
+    },
+    "@noTasksFoundMessage": {
+      "description": "Nachricht, wenn keine Aufgaben gefunden werden"
+    },
+    "@taskDeletedMessage": {
+      "description": "Nachricht, wenn eine Aufgabe gelöscht wird"
+    },
+    "@addTaskButtonTooltip": {
+      "description": "Text für das Tooltip der Schaltfläche Aufgabe hinzufügen"
+    },
+    "@emailVerificationTitle": {
+      "description": "Titel für den Bildschirm E-Mail-Verifizierung"
+    },
+    "@emailVerificationMessage": {
+      "description": "Nachricht, die den Benutzer darüber informiert, dass eine E-Mail zur Verifizierung gesendet wurde"
+    },
+    "@resendEmailButtonText": {
+      "description": "Text für die Schaltfläche E-Mail erneut senden"
+    },
+    "@forgotPasswordTitle": {
+      "description": "Titel für den Bildschirm Passwort vergessen"
+    },
+    "@loginTitle": {
+      "description": "Titel für den Bildschirm Anmelden"
+    },
+    "@emailHint": {
+      "description": "Hinweistext für das E-Mail-Feld"
+    },
+    "@passwordHint": {
+      "description": "Hinweistext für das Passwortfeld"
+    },
+    "@loginButtonText": {
+      "description": "Text für die Schaltfläche Anmelden"
+    },
+    "@notRegisteredText": {
+      "description": "Text für den Link zum Registrieren-Bildschirm"
+    },
+    "@forgotPasswordText": {
+      "description": "Text für den Link zum Passwort-vergessen-Bildschirm"
+    },
+    "@loginError": {
+      "description": "Fehlermeldung, wenn es ein Problem beim Anmelden gibt",
+      "placeholders": {
+        "error": {
+          "type": "String",
+          "example": "Ungültige Anmeldedaten",
+          "description": "Die Fehlermeldung beim Anmelden."
+        }
+      }
+    },
+    "@profileTitle": {
+      "description": "Titel für den Profil-Bildschirm"
+    },
+    "@loadingMessage": {
+      "description": "Nachricht, während Benutzerdaten geladen werden"
+    },
+    "@nameLabel": {
+      "description": "Beschriftung für den Namen des Benutzers"
+    },
+    "@genderLabel": {
+      "description": "Beschriftung für das Geschlecht des Benutzers"
+    },
+    "@emailLabel": {
+      "description": "Beschriftung für die E-Mail des Benutzers"
+    },
+    "@signUpTitle": {
+      "description": "Titel für den Registrieren-Bildschirm"
+    },
+    "@nameHint": {
+      "description": "Hinweistext für das Namensfeld auf dem Registrieren-Bildschirm"
+    },
+    "@mobileHint": {
+      "description": "Hinweistext für das Handyfeld auf dem Registrieren-Bildschirm"
+    },
+    "@confirmPasswordHint": {
+      "description": "Hinweistext für das Bestätigen des Passworts auf dem Registrieren-Bildschirm"
+    },
+    "@registerButtonText": {
+      "description": "Text für die Registrieren-Schaltfläche auf dem Registrieren-Bildschirm"
+    },
+    "@alreadyRegisteredText": {
+      "description": "Text für den Link zum Anmelden-Bildschirm auf dem Registrieren-Bildschirm"
+    },
+    "@passwordsMustMatchMessage": {
+      "description": "Nachricht, wenn die Passwörter nicht übereinstimmen"
+    },
+    "@provideNameMessage": {
+      "description": "Nachricht, wenn der Benutzer keinen Namen angegeben hat"
+    },
+    "@accountCreatedMessage": {
+      "description": "Nachricht, wenn das Konto erfolgreich erstellt wurde"
+    },
+    "@updateScreenTitle": {
+      "description": "Titel für den Aktualisierungsbildschirm"
+    },
+    "@updateButtonText": {
+      "description": "Text für die Schaltfläche Aktualisieren auf dem Aktualisierungsbildschirm"
+    },
+    "@taskUpdatedMessage": {
+      "description": "Nachricht, wenn eine Aufgabe erfolgreich aktualisiert wurde"
+    },
+    "@genderMale": {
+      "description": "Text für die Geschlechtsoption Männlich"
+    },
+    "@genderFemale": {
+      "description": "Text für die Geschlechtsoption Weiblich"
+    },
+    "@genderOther": {
+      "description": "Text für die Geschlechtsoption Anders"
+    },
+    "@provideGenderMessage": {
+      "description": "Nachricht, wenn der Benutzer kein Geschlecht angegeben hat"
+    }
+  }
+  
