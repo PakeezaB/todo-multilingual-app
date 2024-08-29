@@ -64,7 +64,7 @@ class _MyAppState extends State<MyApp> {
               FirebaseAuth.instance.currentUser!.emailVerified
           ? DashboardScreen(
               setLocale:
-                  setLocale) // Pass setLocale to DashboardScreen if needed
+                  setLocale) 
           : LoginScreen(setLocale: setLocale),
     );
   }
