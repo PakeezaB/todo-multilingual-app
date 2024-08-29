@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_localizations/flutter_localizations.dart'; // Ensure this import is included
+import 'package:flutter_localizations/flutter_localizations.dart'; 
 import 'package:todolist_app/views/dashboard_screen.dart';
 import 'package:todolist_app/views/login_screen.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
